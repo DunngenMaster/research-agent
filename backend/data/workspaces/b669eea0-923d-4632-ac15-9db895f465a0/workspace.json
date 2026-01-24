@@ -1,0 +1,7 @@
+{
+  "workspace_id": "b669eea0-923d-4632-ac15-9db895f465a0",
+  "paper_id": "ad4421a1-67d5-4d46-88c5-0b15821dd194",
+  "status": "FAILED",
+  "created_at": "2026-01-24T20:01:07.883973Z",
+  "error": "404 Client Error: Not Found for url: https://app.daytona.io/api/workspaces"
+}
